@@ -1,0 +1,84 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:25.2.0] /home/mario/.android/build-cache/60a120001772b0846a8060feae4f8a914c069a65/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/mario/.android/build-cache/18c35fc42c1a28058d2b47233393257cdbc5788e/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/mario/.android/build-cache/1a9189af70b54e0a8d30841db1c91418822e6165/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/mario/.android/build-cache/38dbf90558291e9d392e764b14cb6f6426000f91/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/mario/.android/build-cache/ad41ab885ad56e6a6cc1b4d0134f576394b0cd9b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/mario/.android/build-cache/d9bbcbbd29fdb887e052c046ab2b618c77793757/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/mario/.android/build-cache/6870e799316a28eacb5e89e7372d0f6082cddf46/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/mario/.android/build-cache/cd30ea001b446dc938331e83fe4ac52d24073010/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/mario/.android/build-cache/ff7ea610285ee69fd9bf2ada9fbd41f3a8bdb28c/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/mario/.android/build-cache/644284c1101ea84211f5e3cf91c3d448e4c61d87/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/mario/.android/build-cache/42b8413892df829a6253f61576ae99274158dec1/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml:11:9-35
+	android:roundIcon
+		ADDED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml:10:9-54
+	android:allowBackup
+		ADDED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml:6:9-31
+activity#com.mario.movies.view.MainActivity
+ADDED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml:13:9-21:20
+	android:label
+		ADDED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml:14:13-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.2.0] /home/mario/.android/build-cache/60a120001772b0846a8060feae4f8a914c069a65/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/mario/.android/build-cache/0f1a26fe2fdc130649222c9df6f8bf891d6214a5/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /home/mario/.android/build-cache/18c35fc42c1a28058d2b47233393257cdbc5788e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.rxbinding:rxbinding-appcompat-v7:0.4.0] /home/mario/.android/build-cache/13c8825fed7d2a29633a83167894bc9a36f0089e/output/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding:rxbinding:0.4.0] /home/mario/.android/build-cache/217f2aab7c33595e2956b3ebb114b8406e4893ba/output/AndroidManifest.xml:6:5-44
+MERGED from [io.reactivex:rxandroid:1.2.1] /home/mario/.android/build-cache/d98ad904fa1f9e90a34e87eb8fade31db427d728/output/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/mario/.android/build-cache/1a9189af70b54e0a8d30841db1c91418822e6165/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.2.0] /home/mario/.android/build-cache/38dbf90558291e9d392e764b14cb6f6426000f91/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/mario/.android/build-cache/ad41ab885ad56e6a6cc1b4d0134f576394b0cd9b/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/mario/.android/build-cache/d9bbcbbd29fdb887e052c046ab2b618c77793757/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/mario/.android/build-cache/6870e799316a28eacb5e89e7372d0f6082cddf46/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/mario/.android/build-cache/cd30ea001b446dc938331e83fe4ac52d24073010/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/mario/.android/build-cache/ff7ea610285ee69fd9bf2ada9fbd41f3a8bdb28c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/mario/.android/build-cache/644284c1101ea84211f5e3cf91c3d448e4c61d87/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.2.0] /home/mario/.android/build-cache/42b8413892df829a6253f61576ae99274158dec1/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.jakewharton:butterknife:8.2.1] /home/mario/.android/build-cache/7fc8f7ce078611547fe79a0e67f6d64d3252340d/output/AndroidManifest.xml:5:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /home/mario/.android/build-cache/60a120001772b0846a8060feae4f8a914c069a65/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/AndroidManifest.xml

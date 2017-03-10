@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/mario/.android/build-cache/d9bbcbbd29fdb887e052c046ab2b618c77793757/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/classes_b10842700b2d2bddd1ed875932708886753ea74f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/okio-1.8.0_0a275754624e619412fad05d26c6743ff47e2dd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/.android/build-cache/38dbf90558291e9d392e764b14cb6f6426000f91/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/classes_3aab881e7f0fb049012b71fe82723b84105a595e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/.android/build-cache/13c8825fed7d2a29633a83167894bc9a36f0089e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cea3c0edbda1279bc261187fb3b6f874bfc841f4">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/classes_51b42e013bbf98f81e79558b9eaa3f48c613c964.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.1.0_6b6e1d9648f42ca9a318ab812f0c73533865a3f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_7b4b25c55bf80eb528f64d5978655b0b50147aff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_ca99f5ee28c7cd86827cc02b2ba629aa011189d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/.android/build-cache/ff7ea610285ee69fd9bf2ada9fbd41f3a8bdb28c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/classes_32676ecd76369a979618bf91ab14511d4b5ebdf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/.android/build-cache/d98ad904fa1f9e90a34e87eb8fade31db427d728/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/classes_3a92a772a5c411748287d2f9320fa16dc6611ed6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/.android/build-cache/0f1a26fe2fdc130649222c9df6f8bf891d6214a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/classes_1913d09c191e3acf29b6da565e18bb5224d02efc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/.android/build-cache/7fc8f7ce078611547fe79a0e67f6d64d3252340d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/classes_5feeefd67b27282ef51ffc5dbd01dcdbaa7a9f54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/.android/build-cache/6870e799316a28eacb5e89e7372d0f6082cddf46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/classes_417b40e9e95660c239dbe38aa6d1bcb303400fbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/.android/build-cache/1a9189af70b54e0a8d30841db1c91418822e6165/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/classes_2a2aa448d33033af422d4a642ddff83a2d677a32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_589d199b69c0ae78901be170f087fbc7780f4ce6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/.android/build-cache/644284c1101ea84211f5e3cf91c3d448e4c61d87/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/classes_859f95d45c21808783ff98018fa0945caf16bc2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/.android/build-cache/217f2aab7c33595e2956b3ebb114b8406e4893ba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/classes_bd0cbd3a0f7b4249ecc993536e841753a42df0ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/.android/build-cache/42b8413892df829a6253f61576ae99274158dec1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/classes_acf5aa527caef0463226efe50ca7206fe50d5b39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_ab1845c02c4603b75a0c5b14fbbda557fb52e19c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/gson-2.7_6311e1e4b955e21fe4d3c4d8550df9be00ee281c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.7/45aaffc3cf6fa7c9b9eed6121369cad25789cf4a/rxjava-1.1.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45aaffc3cf6fa7c9b9eed6121369cad25789cf4a">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/rxjava-1.1.7_a674f2be9b47820443a87201f66c9406ab19cdbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_65743ca24104912e627d619786904cb98b8e05d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/.android/build-cache/60a120001772b0846a8060feae4f8a914c069a65/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/classes_372d3dfb853df496e518d7f8bd526d1528c1a1ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/.android/build-cache/ad41ab885ad56e6a6cc1b4d0134f576394b0cd9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/classes_353bd290fc62d0c3e21ca8bce7fdb8099bbb82b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/.android/build-cache/cd30ea001b446dc938331e83fe4ac52d24073010/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/classes_68eb3a84c752ca8c5444c228166dd952e6a9043a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/.android/build-cache/18c35fc42c1a28058d2b47233393257cdbc5788e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/classes_ca947b517c68e9558369110bbdcb8817637fb40e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mario/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.2.1/d6f54d76edfbe779a50a8636b10fd3f555d8f780/butterknife-annotations-8.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.2.1_a35ff3c2b8bc4d436ecec70ef2982e6e02b03729.jar" />
+    </item>
+
+</items>
