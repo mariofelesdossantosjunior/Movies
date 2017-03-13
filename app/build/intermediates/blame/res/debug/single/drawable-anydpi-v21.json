@@ -4,6 +4,14 @@
         "source": "/home/mario/.android/build-cache/60a120001772b0846a8060feae4f8a914c069a65/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
     },
     {
+        "merged": "/home/mario/AndroidStudioProjects/Movies/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/mario/.android/build-cache/11e94749d1fbfd90f40dc0d676909e0aee625a9f/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/mario/AndroidStudioProjects/Movies/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/mario/.android/build-cache/11e94749d1fbfd90f40dc0d676909e0aee625a9f/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
         "merged": "/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
         "source": "/home/mario/.android/build-cache/60a120001772b0846a8060feae4f8a914c069a65/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
     }

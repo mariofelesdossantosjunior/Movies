@@ -19,4 +19,55 @@ public class Movie {
     private String mType;
     @SerializedName("Year")
     private String mYear;
+
+    public String getmImdbID() {
+        return mImdbID;
+    }
+
+    public void setmImdbID(String mImdbID) {
+        this.mImdbID = mImdbID;
+    }
+
+    public String getmPoster() {
+        return mPoster;
+    }
+
+    public void setmPoster(String mPoster) {
+        this.mPoster = mPoster;
+    }
+
+    public String getmTitle() {
+        return mTitle;
+    }
+
+    public void setmTitle(String mTitle) {
+        this.mTitle = mTitle;
+    }
+
+    public String getmType() {
+        return mType;
+    }
+
+    public void setmType(String mType) {
+        this.mType = mType;
+    }
+
+    public String getmYear() {
+        return mYear;
+    }
+
+    public void setmYear(String mYear) {
+        this.mYear = mYear;
+    }
+
+    @Override
+    public String toString() {
+        return "Movie{" +
+                "mImdbID='" + mImdbID + '\'' +
+                ", mPoster='" + mPoster + '\'' +
+                ", mTitle='" + mTitle + '\'' +
+                ", mType='" + mType + '\'' +
+                ", mYear='" + mYear + '\'' +
+                '}';
+    }
 }

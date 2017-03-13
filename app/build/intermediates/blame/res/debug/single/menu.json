@@ -4,6 +4,14 @@
         "source": "/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/res/menu/navigation.xml"
     },
     {
+        "merged": "/home/mario/AndroidStudioProjects/Movies/app/build/intermediates/res/merged/debug/menu/menu_search.xml",
+        "source": "/home/mario/AndroidStudioProjects/Movies/app/src/main/res/menu/menu_search.xml"
+    },
+    {
+        "merged": "/home/mario/AndroidStudioProjects/Movies/app/build/intermediates/res/merged/debug/menu/navigation.xml",
+        "source": "/home/mario/AndroidStudioProjects/Movies/app/src/main/res/menu/navigation.xml"
+    },
+    {
         "merged": "/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/res/merged/debug/menu/menu_search.xml",
         "source": "/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/res/menu/menu_search.xml"
     }

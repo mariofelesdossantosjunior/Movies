@@ -4,7 +4,15 @@
         "source": "/home/mario/.android/build-cache/60a120001772b0846a8060feae4f8a914c069a65/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
     },
     {
+        "merged": "/home/mario/AndroidStudioProjects/Movies/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/mario/.android/build-cache/11e94749d1fbfd90f40dc0d676909e0aee625a9f/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
         "merged": "/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
         "source": "/home/mario/.android/build-cache/60a120001772b0846a8060feae4f8a914c069a65/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/mario/AndroidStudioProjects/Movies/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/mario/.android/build-cache/11e94749d1fbfd90f40dc0d676909e0aee625a9f/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
     }
 ]

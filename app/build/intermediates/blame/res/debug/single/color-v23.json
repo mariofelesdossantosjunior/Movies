@@ -1,19 +1,63 @@
 [
     {
+        "merged": "/home/mario/AndroidStudioProjects/Movies/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/mario/.android/build-cache/7bb1d8ba757874eb827fd582b7e3ee76213b2252/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/mario/AndroidStudioProjects/Movies/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/mario/.android/build-cache/7bb1d8ba757874eb827fd582b7e3ee76213b2252/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
         "merged": "/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
         "source": "/home/mario/.android/build-cache/1a9189af70b54e0a8d30841db1c91418822e6165/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/mario/AndroidStudioProjects/Movies/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/mario/.android/build-cache/7bb1d8ba757874eb827fd582b7e3ee76213b2252/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
         "source": "/home/mario/.android/build-cache/1a9189af70b54e0a8d30841db1c91418822e6165/output/res/color-v23/abc_tint_switch_thumb.xml"
     },
     {
+        "merged": "/home/mario/AndroidStudioProjects/Movies/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/mario/.android/build-cache/7bb1d8ba757874eb827fd582b7e3ee76213b2252/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
         "merged": "/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
         "source": "/home/mario/.android/build-cache/1a9189af70b54e0a8d30841db1c91418822e6165/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
+        "merged": "/home/mario/AndroidStudioProjects/Movies/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/mario/.android/build-cache/7bb1d8ba757874eb827fd582b7e3ee76213b2252/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/mario/AndroidStudioProjects/Movies/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/mario/.android/build-cache/7bb1d8ba757874eb827fd582b7e3ee76213b2252/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
         "merged": "/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
         "source": "/home/mario/.android/build-cache/1a9189af70b54e0a8d30841db1c91418822e6165/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/mario/AndroidStudioProjects/Movies/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/mario/.android/build-cache/7bb1d8ba757874eb827fd582b7e3ee76213b2252/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/mario/AndroidStudioProjects/Movies/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/mario/.android/build-cache/7bb1d8ba757874eb827fd582b7e3ee76213b2252/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/mario/AndroidStudioProjects/Movies/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/mario/.android/build-cache/11e94749d1fbfd90f40dc0d676909e0aee625a9f/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/mario/AndroidStudioProjects/Movies/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/mario/.android/build-cache/7bb1d8ba757874eb827fd582b7e3ee76213b2252/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/mario/AndroidStudioProjects/Movies/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/mario/.android/build-cache/7bb1d8ba757874eb827fd582b7e3ee76213b2252/output/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
         "merged": "/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",

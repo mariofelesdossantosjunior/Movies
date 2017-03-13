@@ -1,5 +1,7 @@
 package com.mario.movies.view;
 
+import com.mario.movies.model.entity.MovieSearchResult;
+
 /**
  * @author Mario Feles dos Santos Junior
  * @email <mario_feles@live.com/>
@@ -8,5 +10,5 @@ package com.mario.movies.view;
  */
 
 public interface IMainActivity {
-
+  void showMoviesOnIU(MovieSearchResult result);
 }

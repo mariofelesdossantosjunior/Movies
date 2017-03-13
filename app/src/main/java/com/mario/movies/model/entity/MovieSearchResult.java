@@ -18,4 +18,37 @@ public class MovieSearchResult {
     private List<Movie> movies;
     @SerializedName("totalResults")
     private String mTotalResults;
+
+    public String getmResponse() {
+        return mResponse;
+    }
+
+    public void setmResponse(String mResponse) {
+        this.mResponse = mResponse;
+    }
+
+    public List<Movie> getMovies() {
+        return movies;
+    }
+
+    public void setMovies(List<Movie> movies) {
+        this.movies = movies;
+    }
+
+    public String getmTotalResults() {
+        return mTotalResults;
+    }
+
+    public void setmTotalResults(String mTotalResults) {
+        this.mTotalResults = mTotalResults;
+    }
+
+    @Override
+    public String toString() {
+        return "MovieSearchResult{" +
+                "mResponse='" + mResponse + '\'' +
+                ", movies=" + movies +
+                ", mTotalResults='" + mTotalResults + '\'' +
+                '}';
+    }
 }

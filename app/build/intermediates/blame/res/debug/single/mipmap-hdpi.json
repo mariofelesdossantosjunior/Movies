@@ -4,6 +4,14 @@
         "source": "/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
+        "merged": "/home/mario/AndroidStudioProjects/Movies/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/mario/AndroidStudioProjects/Movies/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mario/AndroidStudioProjects/Movies/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/mario/AndroidStudioProjects/Movies/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
         "source": "/home/mario/AndroidStudio Projects/AFA Sistemas/Movies/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     }
